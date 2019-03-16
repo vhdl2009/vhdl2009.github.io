@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://vhdl2009.github.io/"/>
   <updated>2019-03-14T04:45:05.937Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://vhdl2009.github.io/</id>
   
   <author>
     <name>小小罗</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/03/14/hello-world/"/>
-    <id>http://yoursite.com/2019/03/14/hello-world/</id>
+    <link href="https://vhdl2009.github.io/2019/03/14/hello-world/"/>
+    <id>https://vhdl2009.github.io/2019/03/14/hello-world/</id>
     <published>2019-03-14T04:45:05.937Z</published>
     <updated>2019-03-14T04:45:05.937Z</updated>
     
